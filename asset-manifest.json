@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/risk-management/static/css/main.7a17033b.css",
+    "main.js": "/risk-management/static/js/main.6cab9a03.js",
+    "static/js/453.495991c4.chunk.js": "/risk-management/static/js/453.495991c4.chunk.js",
+    "index.html": "/risk-management/index.html",
+    "main.7a17033b.css.map": "/risk-management/static/css/main.7a17033b.css.map",
+    "main.6cab9a03.js.map": "/risk-management/static/js/main.6cab9a03.js.map",
+    "453.495991c4.chunk.js.map": "/risk-management/static/js/453.495991c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a17033b.css",
+    "static/js/main.6cab9a03.js"
+  ]
+}
